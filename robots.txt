@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vacances.petitsfreres.asso.fr/host-https-theculturetrip.com/sitemap.xml
